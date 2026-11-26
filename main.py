@@ -26,6 +26,20 @@ Revision history (genuine, not cosmetic):
   A second candidate cut, "set in 2011" kept over "set fifteen years
   ago", because a fixed year is quotable and instantly dates the
   password without extra words.
+  Revision v2 (this file):
+      "Competitive password recall: athletes must log in live on stage
+       with a password set in 2011. The first to click 'forgot
+       password' is disqualified."
+  Why the change: v1 staged the login as a private act — an athlete
+  at a screen somewhere. "Live on stage" puts the login screen in
+  front of a stadium crowd and a TV audience, which is what makes it
+  an Olympic event rather than an IT support ticket: the humiliation
+  is public, the commentator has something to describe ("he's
+  typing... he's forgotten the capital letter"), and the punchline
+  lands harder because the "forgot password" click happens under
+  the lights, in front of everyone. Nothing else changed — the
+  domain, the year, and the disqualification trigger are untouched,
+  so the joke's core is preserved and only its staging got sharper.
 """
 
 import hashlib
@@ -33,8 +47,9 @@ import os
 import sys
 
 ENTRY = (
-    "Competitive password recall: athletes must log in with a password "
-    "set in 2011. The first to click 'forgot password' is disqualified."
+    "Competitive password recall: athletes must log in live on stage "
+    "with a password set in 2011. The first to click 'forgot password' "
+    "is disqualified."
 )
 
 OUTPUT_FILENAME = "entry.txt"

@@ -8,7 +8,9 @@ Entry for the [Rejected Olympic Sports](https://make.fun/bounty/u-motasimfuad-re
 
 ## Entry
 
-> Competitive password recall: athletes must log in with a password set in 2011. The first to click 'forgot password' is disqualified.
+> Competitive password recall: athletes must log in live on stage with a password set in 2011. The first to click 'forgot password' is disqualified.
+
+(146 characters, one line.)
 
 ## Why this angle
 
